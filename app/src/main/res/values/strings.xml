@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cours</string>
+    <string name="de_fayssal">De Fayssal</string>
+    <string name="mon_cours_kotlin">Mon cours Kotlin</string>
+    <string name="button">Button</string>
+    <string name="roll">Roll</string>
+    <string name="_1">1</string>
+    <string name="todo">TODO</string>
+    <string name="jeu_de_des">Jeu de des</string>
+    <string name="tente_ta_chance">Tente ta chance</string>
+
+
+</resources>
